@@ -1,0 +1,52 @@
+# ITSA 基礎題 · 第 0514 輪
+
+第四輪（5/14）：考前總複習版，標題直接寫出解題關鍵，加入 2024/05 歷屆題
+
+[回到總目錄](../README.md)
+
+| # | 題目 | 解題關鍵 | 解法數 |
+|---|---|---|---|
+| 1 | [矩陣數字顯示](01_矩陣數字顯示/README.md) |  | 1 |
+| 2 | [英哩轉公里](02_英哩轉公里/README.md) | `fixed << setprecision(1) << m` | 1 |
+| 3 | [判斷座標是否在圓形的範圍內](03_判斷座標是否在圓形的範圍內/README.md) | `//x^2 + y^2 ≤ r^2` | 1 |
+| 4 | [停車費計算](04_停車費計算/README.md) | `//大於小於要分兩個條件寫，2小時內=包含兩小時` | 1 |
+| 5 | [十進制轉二進制](05_十進制轉二進制/README.md) | `bitset<8>(n)` | 4 |
+| 6 | [季節判定](06_季節判定/README.md) |  | 2 |
+| 7 | [複數運算](07_複數運算/README.md) | `char op; //符號` | 1 |
+| 8 | [質數判別](08_質數判別/README.md) |  | 1 |
+| 9 | [計算正整數被3整除之數值之總和](09_計算正整數被3整除之數值之總和/README.md) |  | 1 |
+| 10 | [輾轉相除法](10_輾轉相除法/README.md) | `//m<=n，設新的c=0換位置[c=m，m=n，n=c]` | 2 |
+| 11 | [矩陣反轉](11_矩陣反轉/README.md) |  | 1 |
+| 12 | [遞迴程式練習](12_遞迴程式練習/README.md) |  | 1 |
+| 14 | [判斷是否為迴文](14_判斷是否為迴文/README.md) | `a.substr(起始點,長度) reverse()` | 2 |
+| 15 | [文字及字母出現次數](15_文字及字母出現次數/README.md) | `getline(cin, a);包含空格` | 1 |
+| 16 | [子字串出現次數](16_子字串出現次數/README.md) | `substr(pos位置, len長度)//b.substr(i, la) == a` | 1 |
+| 17 | [英文斷詞](17_英文斷詞/README.md) | `getline #include <vector> wd.clear();find(wd.begin(),wd.end(…` | 2 |
+| 18 | [QWERTY](18_QWERTY/README.md) | `getline(cin, a);包含空格` | 1 |
+| 19 | [最少派車數](19_最少派車數/README.md) |  | 1 |
+| 20 | [大整數加法](20_大整數加法/README.md) | `string bigadd();res` | 2 |
+| 21 | [最大值與最小值](21_最大值與最小值/README.md) | `//sort(起始位置, 結束位置);` | 1 |
+| 22 | [圈圈叉叉](22_圈圈叉叉/README.md) | `bool win = false;int game[3][3];` | 1 |
+| 23 | [找零錢問題](23_找零錢問題/README.md) | `char comma;//要讀逗號` | 1 |
+| 24 | [計算複利](24_計算複利/README.md) | `long double` | 1 |
+| 26 | [各位數和排序](26_各位數和排序/README.md) | `int m = number[i];//複製一份出來計算counter[i] += m % 10;` | 2 |
+| 27 | [猜數字](27_猜數字/README.md) |  | 1 |
+| 29 | [身分證驗證器](29_身分證驗證器/README.md) | `getline int n[9]={0};//用來裝後面9位數字` | 1 |
+| 30 | [星座查詢](30_星座查詢/README.md) |  | 1 |
+| 31 | [過半元素](31_過半元素/README.md) | `string line;getline istringstream iss(line); map<int,int>m a…` | 1 |
+| 32 | [字母往後移](32_字母往後移/README.md) | `直接getline //%26+'A’ //%10+'0’` | 1 |
+| 33 | [一整數序列所含之整數個數及平均值](33_一整數序列所含之整數個數及平均值/README.md) | `string number;getline istringstream iss(number);` | 1 |
+| 34 | [標準體重計算](34_標準體重計算/README.md) |  | 1 |
+| 35 | [買獎品](35_買獎品/README.md) | `int i; int price[100];` | 1 |
+| 36 | [平、閏年判定](36_平、閏年判定/README.md) |  | 1 |
+| 37 | [18啦遊戲設計](37_18啦遊戲設計/README.md) |  | 3 |
+| 38 | [計算電費](38_計算電費/README.md) |  | 1 |
+| 39 | [考試測驗](39_考試測驗/README.md) | `int grade[3];total += grade[i];` | 1 |
+| 40 | [ISBN驗證](40_ISBN驗證/README.md) |  | 1 |
+
+本輪未收錄的題目：13、25、28
+
+## 補充練習與歷屆題
+
+- [2024/04 - Problem 4. 防禦系統敵人來襲](00_補充練習與歷屆題/README.md)
+- [2024/05 - Problem 1. 換幣機](00_補充練習與歷屆題/README.md)
