@@ -1,8 +1,8 @@
-# 補充練習與歷屆題（第 0514 輪）
+# 補充練習與歷屆題(第0514輪)
 
 > [回到本輪目錄](../README.md)
 
-**程式碼檔案：** [solution_1.cpp](solution_1.cpp)、[solution_2.cpp](solution_2.cpp)、[solution_3.cpp](solution_3.cpp)
+**程式碼檔案**：[solution_1.cpp](solution_1.cpp)、[solution_2.cpp](solution_2.cpp)、[solution_3.cpp](solution_3.cpp)
 
 ---
 
