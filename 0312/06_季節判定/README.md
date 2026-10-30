@@ -1,14 +1,14 @@
-# 題目 6. 季節判定
+# 題目6. 季節判定
 
-> ITSA 基礎題練習 · 第 0312 輪 · [回到本輪目錄](../README.md)
+> ITSA基礎題練習 · 第0312輪 · [回到本輪目錄](../README.md)
 
-**程式碼檔案：** [solution_1.cpp](solution_1.cpp)、[solution_2.cpp](solution_2.cpp)
+**程式碼檔案**：[solution_1.cpp](solution_1.cpp)、[solution_2.cpp](solution_2.cpp)
 
 ---
 
-問題描述：試撰寫一程式，可輸入月份，然後判斷其所屬的季節（ 3~5 月為春季，6~8 月為夏季， 9~11 月為秋季， 12~2 月為冬季）。  
+問題描述：試撰寫一程式，可輸入月份，然後判斷其所屬的季節( 3~5月為春季，6~8月為夏季，9~11月為秋季，12~2月為冬季)。  
 輸入說明：輸入月份。  
-輸出說明：輸出該月份的季節， 3~5 月為春季(Spring)， 6~8 月為夏季(Summer)， 9~11 月為秋季(Autumn)， 12~2 月為冬季(Winter)。  
+輸出說明：輸出該月份的季節，3~5月為春季(Spring)，6~8月為夏季(Summer)，9~11月為秋季(Autumn)，12~2月為冬季(Winter)。  
 範例：  
 
 | Sample Input: | Sample Output: |
