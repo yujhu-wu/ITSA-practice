@@ -1,8 +1,8 @@
-# 題目 33. 一整數序列所含之整數個數及平均值
+# 題目33. 一整數序列所含之整數個數及平均值
 
-> ITSA 基礎題練習 · 第 0000 輪 · [回到本輪目錄](../README.md)
+> ITSA基礎題練習 · 第0000輪 · [回到本輪目錄](../README.md)
 
-**程式碼檔案：** [solution.cpp](solution.cpp)
+**程式碼檔案**：[solution.cpp](solution.cpp)
 
 ---
 
