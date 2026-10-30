@@ -1,10 +1,10 @@
-# 題目 33. 一整數序列所含之整數個數及平均值
+# 題目33. 一整數序列所含之整數個數及平均值
 
-> ITSA 基礎題練習 · 第 0514 輪 · [回到本輪目錄](../README.md)
+> ITSA基礎題練習 · 第0514輪 · [回到本輪目錄](../README.md)
 
-**解題關鍵：** `string number;getline istringstream iss(number);`
+**解題關鍵**：`string number;getline istringstream iss(number);`
 
-**程式碼檔案：** [solution.cpp](solution.cpp)
+**程式碼檔案**：[solution.cpp](solution.cpp)
 
 ---
 
@@ -24,7 +24,7 @@
 >
 > #include <sstream>  
 > string number;     // 存放整行輸入  
-> istringstream iss(number); //建立字串流，用來解析 number 裡的數字  
+> istringstream iss(number); //建立字串流，用來解析number裡的數字  
 > while(iss >> num) //從iss讀取數字，一次讀取一個  
 > {  
 > counter++;  
