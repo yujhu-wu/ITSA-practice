@@ -1,8 +1,8 @@
-# 題目 5. 十進制轉二進制
+# 題目5. 十進制轉二進制
 
-> ITSA 基礎題練習 · 第 0312 輪 · [回到本輪目錄](../README.md)
+> ITSA基礎題練習 · 第0312輪 · [回到本輪目錄](../README.md)
 
-**程式碼檔案：** [solution_1.cpp](solution_1.cpp)、[solution_2.cpp](solution_2.cpp)、[solution_3.cpp](solution_3.cpp)、[solution_4.cpp](solution_4.cpp)
+**程式碼檔案**：[solution_1.cpp](solution_1.cpp)、[solution_2.cpp](solution_2.cpp)、[solution_3.cpp](solution_3.cpp)、[solution_4.cpp](solution_4.cpp)
 
 ---
 
