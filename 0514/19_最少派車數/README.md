@@ -1,8 +1,8 @@
-# 題目 19. 最少派車數
+# 題目19. 最少派車數
 
-> ITSA 基礎題練習 · 第 0514 輪 · [回到本輪目錄](../README.md)
+> ITSA基礎題練習 · 第0514輪 · [回到本輪目錄](../README.md)
 
-**程式碼檔案：** [solution.cpp](solution.cpp)
+**程式碼檔案**：[solution.cpp](solution.cpp)
 
 ---
 
