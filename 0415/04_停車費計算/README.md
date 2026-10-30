@@ -1,8 +1,8 @@
-# 題目 4. 停車費計算
+# 題目4. 停車費計算
 
-> ITSA 基礎題練習 · 第 0415 輪 · [回到本輪目錄](../README.md)
+> ITSA基礎題練習 · 第0415輪 · [回到本輪目錄](../README.md)
 
-**程式碼檔案：** [solution.cpp](solution.cpp)
+**程式碼檔案**：[solution.cpp](solution.cpp)
 
 ---
 
