@@ -1,10 +1,10 @@
-# 題目 23. 找零錢問題
+# 題目23. 找零錢問題
 
-> ITSA 基礎題練習 · 第 0415 輪 · [回到本輪目錄](../README.md)
+> ITSA基礎題練習 · 第0415輪 · [回到本輪目錄](../README.md)
 
-**解題關鍵：** `char comma;//要讀逗號`
+**解題關鍵**：`char comma;//要讀逗號`
 
-**程式碼檔案：** [solution.cpp](solution.cpp)
+**程式碼檔案**：[solution.cpp](solution.cpp)
 
 ---
 
