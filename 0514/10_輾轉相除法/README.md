@@ -1,10 +1,10 @@
-# 題目 10. 輾轉相除法
+# 題目10. 輾轉相除法
 
-> ITSA 基礎題練習 · 第 0514 輪 · [回到本輪目錄](../README.md)
+> ITSA基礎題練習 · 第0514輪 · [回到本輪目錄](../README.md)
 
-**解題關鍵：** `//m<=n，設新的c=0換位置[c=m，m=n，n=c]`
+**解題關鍵**：`//m<=n，設新的c=0換位置[c=m，m=n，n=c]`
 
-**程式碼檔案：** [solution_1.cpp](solution_1.cpp)、[solution_2.cpp](solution_2.cpp)
+**程式碼檔案**：[solution_1.cpp](solution_1.cpp)、[solution_2.cpp](solution_2.cpp)
 
 ---
 
@@ -15,13 +15,13 @@
 輸出說明：  
 輸出最大公因數  
 範例：  
-假設輸入為 300 與 250, 則輸出為 50  
+假設輸入為300與250, 則輸出為50  
 
 > 💡 **筆記**  
 >
 > 要確保m<=n，設新的c=0換位置[c=m，m=n，n=c]  
 > 呼叫gcd自己用gcd(m,n)，gcd內部設(int a, int b)  
-> 如果餘數為0，則b就是最大公因數 f=0，ret b  
+> 如果餘數為0，則b就是最大公因數f=0，ret b  
 
 ```cpp
 #include <iostream>
