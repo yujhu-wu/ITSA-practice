@@ -1,8 +1,8 @@
-# 題目 3. 判斷座標是否在圓形的範圍內
+# 題目3. 判斷座標是否在圓形的範圍內
 
-> ITSA 基礎題練習 · 第 0000 輪 · [回到本輪目錄](../README.md)
+> ITSA基礎題練習 · 第0000輪 · [回到本輪目錄](../README.md)
 
-**程式碼檔案：** [solution.cpp](solution.cpp)
+**程式碼檔案**：[solution.cpp](solution.cpp)
 
 ---
 
